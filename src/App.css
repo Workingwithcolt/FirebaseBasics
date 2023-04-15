@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.app__header{
+    object-fit: contain;
+    /* that is for being present as it is without any streach */
+    background-color: white;
+    padding:20px;
+    border-bottom: 1px solid lightgray;    
+}
+.App{
+    background-color: #fafafa;
+    height: 100%;
+
+}
